@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "magic:clown",
+    "magic:ninjaclown",
+    "magic:magicento",
+    "magic:magiquicento",
+    "magic:bufonboss",
+    "magic:motherwitch",
+    "magic:eternalwitch",
+    "magic:engineerevoker",
+    "magic:bufonboss_proxy"
+  ]
+}

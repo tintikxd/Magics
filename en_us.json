@@ -1,0 +1,14 @@
+{
+	"entity.magic.clown": "Clown",
+	"entity.magic.ninjaclown": "Ninja Clown",
+	"entity.magic.magicento": "Magicento",
+	"entity.magic.magiquicento": "Magiquicento",
+	"entity.magic.bufonboss": "Bufon Boss",
+	"item.magic.clown_spawn_egg": "Clown Spawn Egg",
+	"item.magic.ninjaclown_spawn_egg": "Ninja Clown Spawn Egg",
+	"item.magic.magicento_spawn_egg": "Magicento Spawn Egg",
+	"item.magic.magiquicento_spawn_egg": "Magiquicento Spawn Egg",
+	"item.magic.bufonboss_spawn_egg": "Bufon Boss Spawn Egg",
+	"effect.magic.shaking": "Shaking"
+}
+

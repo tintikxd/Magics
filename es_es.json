@@ -1,0 +1,13 @@
+{
+	"entity.magic.clown": "Clown",
+	"entity.magic.ninjaclown": "Ninja Clown",
+	"entity.magic.magicento": "Magicento",
+	"entity.magic.magiquicento": "Magiquicento",
+	"entity.magic.bufonboss": "Bufon Boss",
+	"item.magic.clown_spawn_egg": "Huevo generador de Clown",
+	"item.magic.ninjaclown_spawn_egg": "Huevo generador de Ninja Clown",
+	"item.magic.magicento_spawn_egg": "Huevo generador de Magicento",
+	"item.magic.magiquicento_spawn_egg": "Huevo generador de Magiquicento",
+	"item.magic.bufonboss_spawn_egg": "Huevo generador de Bufon Boss",
+	"effect.magic.shaking": "Terremoto"
+}
